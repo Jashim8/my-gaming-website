@@ -346,6 +346,10 @@
      background-color: #0B0223;
  }
 
+ .footer-social-nav .footer-sub-nav {
+     display: flex;
+ }
+
  footer .img-logo {
      margin-bottom: 56px;
  }
